@@ -1,0 +1,250 @@
+term,gram_type
+địt,1-gram
+dit,1-gram
+djt,1-gram
+đụ,1-gram
+du,1-gram
+lồn,1-gram
+lon,1-gram
+loz,1-gram
+lol,1-gram
+lờ,1-gram
+cặc,1-gram
+cac,1-gram
+buồi,1-gram
+buoi,1-gram
+dái,1-gram
+dai,1-gram
+đéo,1-gram
+deo,1-gram
+dell,1-gram
+đé0,1-gram
+vcl,1-gram
+vkl,1-gram
+vl,1-gram
+vlon,1-gram
+vcc,1-gram
+đm,1-gram
+dm,1-gram
+đmm,1-gram
+dmm,1-gram
+đkm,1-gram
+dkm,1-gram
+đcm,1-gram
+dcm,1-gram
+ml,1-gram
+cc,1-gram
+cl,1-gram
+clgt,1-gram
+cút,1-gram
+cut,1-gram
+biến,1-gram
+bien,1-gram
+ngu,1-gram
+phò,1-gram
+pho,1-gram
+đĩ,1-gram
+di,1-gram
+điếm,1-gram
+diem,1-gram
+cave,1-gram
+ngáo,1-gram
+sủa,1-gram
+sua,1-gram
+cắn,1-gram
+can,1-gram
+chết,1-gram
+chet,1-gram
+giết,1-gram
+giet,1-gram
+con mẹ,2-gram
+con me,2-gram
+mẹ mày,2-gram
+me may,2-gram
+mẹ cha,2-gram
+me cha,2-gram
+mẹ kiếp,2-gram
+me kiep,2-gram
+con chó,2-gram
+con cho,2-gram
+chó đẻ,2-gram
+cho de,2-gram
+chó chết,2-gram
+cho chet,2-gram
+ngu dốt,2-gram
+ngu dot,2-gram
+ngu si,2-gram
+ngu lol,2-gram
+ngu loz,2-gram
+ngu lồn,2-gram
+ngu lon,2-gram
+ngu như,2-gram
+ngu nhu,2-gram
+óc chó,2-gram
+oc cho,2-gram
+óc bò,2-gram
+oc bo,2-gram
+óc lợn,2-gram
+oc lon,2-gram
+óc cứt,2-gram
+oc cut,2-gram
+đầu đất,2-gram
+dau dat,2-gram
+não phẳng,2-gram
+nao phang,2-gram
+não tàn,2-gram
+nao tan,2-gram
+thiểu năng,2-gram
+thieu nang,2-gram
+bại não,2-gram
+bai nao,2-gram
+đồ ngu,2-gram
+do ngu,2-gram
+đồ điên,2-gram
+do dien,2-gram
+thằng điên,2-gram
+thang dien,2-gram
+con điên,2-gram
+con dien,2-gram
+mất dạy,2-gram
+mat day,2-gram
+vô học,2-gram
+vo hoc,2-gram
+cút đi,2-gram
+cut di,2-gram
+biến đi,2-gram
+bien di,2-gram
+cút xéo,2-gram
+cut xeo,2-gram
+địt mẹ,2-gram
+dit me,2-gram
+địt bà,2-gram
+dit ba,2-gram
+địt cụ,2-gram
+dit cu,2-gram
+vãi lồn,2-gram
+vai lon,2-gram
+vãi cứt,2-gram
+vai cut,2-gram
+vãi chưởng,2-gram
+vai chuong,2-gram
+vãi đái,2-gram
+vai dai,2-gram
+như lồn,2-gram
+nhu lon,2-gram
+như cặc,2-gram
+nhu cac,2-gram
+hãm lồn,2-gram
+ham lon,2-gram
+mặt lồn,2-gram
+mat lon,2-gram
+súc vật,2-gram
+suc vat,2-gram
+xúc vật,2-gram
+xuc vat,2-gram
+đụ má,2-gram
+du ma,2-gram
+đụ mẹ,2-gram
+du me,2-gram
+đéo má,2-gram
+deo ma,2-gram
+đụ cha,2-gram
+du cha,2-gram
+thằng chó,2-gram
+thang cho,2-gram
+con đĩ,2-gram
+con di,2-gram
+lũ chó,2-gram
+lu cho,2-gram
+rác rưởi,2-gram
+rac ruoi,2-gram
+ăn cứt,2-gram
+an cut,2-gram
+bốc cứt,2-gram
+boc cut,2-gram
+liếm lồn,2-gram
+liem lon,2-gram
+bú cu,2-gram
+bu cu,2-gram
+bú lồn,2-gram
+bu lon,2-gram
+làm tình,2-gram
+lam tinh,2-gram
+hiếp dâm,2-gram
+hiep dam,2-gram
+con mẹ mày,3-gram
+con me may,3-gram
+con đĩ mẹ,3-gram
+con di me,3-gram
+địt con mẹ,3-gram
+dit con me,3-gram
+địt mẹ mày,3-gram
+dit me may,3-gram
+địt cụ mày,3-gram
+dit cu may,3-gram
+địt bà mày,3-gram
+dit ba may,3-gram
+đụ má mày,3-gram
+du ma may,3-gram
+đụ mẹ mày,3-gram
+du me may,3-gram
+mày ngu như,3-gram
+may ngu nhu,3-gram
+đồ óc chó,3-gram
+do oc cho,3-gram
+đồ súc vật,3-gram
+do suc vat,3-gram
+thứ rác rưởi,3-gram
+thu rac ruoi,3-gram
+loại vô học,3-gram
+loai vo hoc,3-gram
+cả lò mày,3-gram
+ca lo may,3-gram
+tổ sư bố,3-gram
+to su bo,3-gram
+thằng mặt lồn,3-gram
+thang mat lon,3-gram
+con mặt lồn,3-gram
+con mat lon,3-gram
+cái lồn má,3-gram
+cai lon ma,3-gram
+địt cả lò,3-gram
+dit ca lo,3-gram
+ngu như bò,3-gram
+ngu nhu bo,3-gram
+ngu như chó,3-gram
+ngu nhu cho,3-gram
+ngu như lợn,3-gram
+ngu nhu lon,3-gram
+chết mẹ mày,3-gram
+chet me may,3-gram
+chết cụ mày,3-gram
+chet cu may,3-gram
+đồ con chó,3-gram
+do con cho,3-gram
+thứ mất dạy,3-gram
+thu mat day,3-gram
+cút mẹ đi,3-gram
+cut me di,3-gram
+xéo mẹ đi,3-gram
+xeo me di,3-gram
+sủa ít thôi,3-gram
+sua it thoi,3-gram
+câm mồm đi,3-gram
+cam mom di,3-gram
+hãm lồn cành cạch,4-gram
+ham lon canh cach,4-gram
+địt con mẹ mày,4-gram
+dit con me may,4-gram
+địt cụ tổ mày,4-gram
+dit cu to may,4-gram
+đụ má nội mày,4-gram
+du ma noi may,4-gram
+thằng chó đẻ này,4-gram
+thang cho de nay,4-gram
+ngu như con chó,4-gram
+ngu nhu con cho,4-gram
+não mày chứa cứt,4-gram
+nao may chua cut,4-gram
+loại cặn bã xã hội,5-gram
+loai can ba xa hoi,5-gram
